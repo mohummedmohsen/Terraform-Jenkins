@@ -1,0 +1,11 @@
+# ignore the hidden files 
+.*
+.*/
+# ignore terraform.tfvars file 
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+# ignore pem file
+Mohamed-Mohsen.pem
+
+
